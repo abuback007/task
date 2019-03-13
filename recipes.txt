@@ -2,3 +2,6 @@ this is recipie file
 
 pasta 
 frien veg
+
+chicken fry
+mutton fry
